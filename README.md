@@ -2,7 +2,8 @@
 Recriando a página da Netflix
 Neste projeto utilizamos nosso conhecimentos de css , HTML e javascript para recriar um front-end semelhante ao da gigante do streaming Netflix
 
-![Uploading image.png…]()![Uploading image.png…]()
+! [Enviando image.png…] ()
+![image](https://user-images.githubusercontent.com/72883707/110036998-9490b580-7d1c-11eb-9f27-56abf7efd218.png)
 
 
 
